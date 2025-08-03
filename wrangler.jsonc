@@ -1,0 +1,11 @@
+{
+	"name": "trans",
+	"compatibility_date": "2025-07-02",
+	"assets": {
+		"directory": "."
+	},
+	"ai": {
+		"binding": "AI"
+	},
+	"main": "work.js"
+}
